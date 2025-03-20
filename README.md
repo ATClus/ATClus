@@ -8,8 +8,8 @@
 
 ## Featured Projects
 
-- [Project A](https://github.com/ATClus/ClusterOS): Suite for productivity.
-- [Project B](https://github.com/ATClus/tab_focus_sync): Firefox extension for tracking tabs.
+- [ClusterOS](https://github.com/ATClus/ClusterOS): Suite for productivity.
+- [Tab Focus Sync](https://github.com/ATClus/tab_focus_sync): Firefox extension for tracking tabs.
 
 ## Technologies
 
