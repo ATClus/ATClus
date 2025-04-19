@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on projects using .NET, PostgreSQL, SQL Server, Python, and Go.
 - 🌱 Always learning new technologies and programming paradigms.
-- 📫 Get in touch: [jhonnatthanl@clusterat.com](mailto:jhonnatthan@clusterat.com)
+- 📫 Get in touch: [jhonnatthan@clusterat.com](mailto:jhonnatthan@clusterat.com)
 
 ## Featured Projects
 
