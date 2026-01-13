@@ -1,20 +1,11 @@
 # Hi, I'm Jhonnatthan Alves!
 
-![Metrics](/github-metrics.svg)
-
-**Computer Engineering Student | Backend Developer**
-
-Estudante de Engenharia de Computação focado na construção de sistemas distribuídos, resilientes e de alta performance. Atualmente aprofundando conhecimentos em **Java (Spring Ecosystem)** e **System Design**.
-
-- **Atuando com:** PHP, Python, Java, Typescript e ecossistema SQL/NoSQL.
-- **Foco Acadêmico:** Arquitetura de Software, Sistemas Operacionais e Engenharia de Dados.
-- **Contato:** [jhonnatthan@clusterat.com](mailto:jhonnatthan.alves@clusterat.com)
-
 ---
 
-## Tech Stack & Ecosystem
+![Metrics](/github-metrics.svg)
+---
 
-### Languages & Frameworks
+## Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -22,10 +13,10 @@ Estudante de Engenharia de Computação focado na construção de sistemas distr
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Learning & Exploration
+## Learning & Exploration
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
-### Messaging & Data (Backend Specialization)
+## Messaging & Data (Backend Specialization)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
@@ -47,5 +38,5 @@ Extensão para Firefox desenvolvida em Rust/JS para sincronização de contexto 
 ## Stats & Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=atclus&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" alt="Jhonnatthan's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atclus&theme=visual_studio_code" alt="Jhonnatthan's GitHub Stats" height="180" />
 </p>
