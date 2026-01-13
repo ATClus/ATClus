@@ -1,8 +1,8 @@
 # Hi, I'm Jhonnatthan Alves!
 
----
-
-![Metrics](/github-metrics.svg)
+<p align="center">
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
+</p>
 ---
 
 ## Languages & Frameworks
@@ -38,5 +38,5 @@ Extensão para Firefox desenvolvida em Rust/JS para sincronização de contexto 
 ## Stats & Activity
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atclus&theme=visual_studio_code" alt="Jhonnatthan's GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atclus&theme=visual_studio_code" alt="Jhonnatthan's Streak" height="170" />
 </p>
