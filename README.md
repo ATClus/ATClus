@@ -1,31 +1,50 @@
-# Hi, I'm Jhonnatthan Alves! 👋
+# Hi, I'm Jhonnatthan Alves!
 
-**Computer Engineer | Backend Developer**
+**Computer Engineering Student | Backend Developer**
 
-- 🔭 Currently working on projects using .NET, PostgreSQL, SQL Server, Python, and Rust.
-- 🌱 Always learning new technologies and programming paradigms.
-- 📫 Get in touch: [jhonnatthan@clusterat.com](mailto:jhonnatthan@clusterat.com)
+Estudante de Engenharia de Computação focado na construção de sistemas distribuídos, resilientes e de alta performance. Atualmente aprofundando conhecimentos em **Java (Spring Ecosystem)** e **System Design**.
 
-## Featured Projects
+- **Atuando com:** PHP, Python, Java, Typescript e ecossistema SQL/NoSQL.
+- **Foco Acadêmico:** Arquitetura de Software, Sistemas Operacionais e Engenharia de Dados.
+- **Contato:** [jhonnatthan@clusterat.com](mailto:jhonnatthan.alves@clusterat.com)
 
-- [ClusterOS](https://github.com/ATClus/ClusterOS): Suite for productivity.
-- [Tab Focus Sync](https://github.com/ATClus/tab_focus_sync): Firefox extension for tracking tabs.
+---
 
-## Technologies
+## Tech Stack & Ecosystem
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net)
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Learning & Exploration
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+
+### Messaging & Data (Backend Specialization)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
-## Contributions
+---
 
-- Always striving for continuous improvement and new collaborations.
+## Featured Projects
 
+### [ClusterOS](https://github.com/ATClus/ClusterOS)
+Uma suíte voltada para produtividade, explorando conceitos de integração de sistemas e performance.
 
-![ATClus GitHub stats](https://github-readme-stats.vercel.app/api?username=atclus&show_icons=true)
+### [Tab Focus Sync](https://github.com/ATClus/tab_focus_sync)
+Extensão para Firefox desenvolvida em Rust/JS para sincronização de contexto de navegação, focada em eficiência de memória.
+
+---
+
+## Stats & Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=atclus&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" alt="Jhonnatthan's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atclus&layout=compact&theme=visual_studio_code" alt="Top Languages" height="180" />
+</p>
