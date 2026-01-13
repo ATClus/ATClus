@@ -1,5 +1,7 @@
 # Hi, I'm Jhonnatthan Alves!
 
+![Metrics](/github-metrics.svg)
+
 **Computer Engineering Student | Backend Developer**
 
 Estudante de Engenharia de Computação focado na construção de sistemas distribuídos, resilientes e de alta performance. Atualmente aprofundando conhecimentos em **Java (Spring Ecosystem)** e **System Design**.
@@ -46,5 +48,4 @@ Extensão para Firefox desenvolvida em Rust/JS para sincronização de contexto 
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=atclus&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" alt="Jhonnatthan's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atclus&layout=compact&theme=visual_studio_code" alt="Top Languages" height="180" />
 </p>
